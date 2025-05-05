@@ -223,6 +223,9 @@ collections:
   statistic:
     output: true
     permalink: /:collection/:path/
+  figures:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -273,6 +276,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _figures
+  - scope:
+      path: ""
+      type: figures
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 
 
 # Sass/SCSS

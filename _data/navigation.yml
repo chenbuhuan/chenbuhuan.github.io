@@ -18,6 +18,8 @@ main:
     url: /project/
   - title: "Statistic"
     url: /statistic/
+  - title: "Figures"
+    url: /figures/
 
 
 
