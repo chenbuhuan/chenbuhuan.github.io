@@ -1,21 +1,23 @@
 ---
 permalink: /
-title: "Home Page"
+title: "Statistic Buhuan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! Friends from afar! I'm Chen Buhuan. As for my original name, let's keep that mysterious for now! This is my personal homepage. Since September 2025, I will be pursuing a Ph.D. in Statistics at Beijing Normal University. 
+Greetings! Dear friends from afar! I'm Chen Buhuan. As for my given name, I'd like to maintain an air of mystery for now. Welcome to my personal website. Come September 2025, I will commence my pursuit of a Ph.D. in Statistics at Beijing Normal University. 
 
-Building this personal homepage has been a long-cherished wish of mine. Previously, due to a lack of content accumulation and sufficient time, the plan had been put on hold. In the future, I will take good care of this space. On the one hand, I want to use it to record the bits and pieces of my scientific research life. On the other hand, I also hope to open-source and share the theoretical knowledge and technical methods I have learned. This is not only convenient for me to look up at any time but also can benefit more people.After all, recording what I have learned is also a good way to consolidate my knowledge.
+Creating this personal website has been a long-anticipated aspiration of mine. In the past, due to insufficient content reserves and time constraints, the plan remained in abeyance. Going forward, I am committed to meticulously curating this digital space. On one hand, it will serve as a chronicle of my academic journey, capturing the nuances of my research endeavors. On the other hand, I aim to make the theoretical knowledge and technical methodologies I acquire publicly accessible. This practice not only facilitates my own review but also extends the benefits to a broader audience. After all, documenting learned material is an effective means of reinforcing comprehension and retention. 
 
- If you are interested in my research, you are welcome to contact me via Email. I am really looking forward to communicating and discussing with you! However, if you just want to pick a fight, please go elsewhere. I'm not good at arguing, and I always feel extremely exhausted after every argument. 
+Should you find my research intriguing, I warmly invite you to reach out via email. I eagerly anticipate engaging in intellectual exchanges with you. However, if your intention is merely to engage in unproductive debates, I must kindly ask you to refrain. I am not adept at confrontational discussions, and such exchanges invariably leave me feeling drained. 
 
-In addition to focusing on academic research, my life is also quite colorful. I am keen on playing Texas Hold'em poker, mahjong, and guandan in my daily life. I am also never stingy in appreciating beautiful things, such as beautiful scenery and elegant ladies. Among all my hobbies, the one that gives me the most pleasure is making friends. During my time on campus, I especially like chatting with a group of professors over 50 years old who have rich experiences. They are like walking encyclopedias. Chatting with them about the philosophy of life and discussing future prospects, every clash of ideas can bring me new inspiration. Don't even think about playing any small tricks of fraud on me! I'm very smart! When I encounter something I'm not sure about, I like to seek advice from these old professors who are like my "think tank". With the support of their experience, ordinary little tricks can't deceive me.
+Beyond my academic pursuits, my life is replete with diverse interests. I have a penchant for recreational activities such as Texas Hold'em poker, mahjong, and guandan. I also take great delight in appreciating the beauty of nature and the elegance of individuals. Among all my pastimes, my greatest passion lies in forging new friendships. During my time at university, I particularly relish conversations with professors aged 50 and above. Their wealth of experience makes them living repositories of knowledge. Engaging in discussions about life's philosophy and envisioning future possibilities with them invariably sparks novel insights, as each intellectual discourse serves as a wellspring of inspiration. 
 
-There are still many things left unsaid and stories yet to be shared. Let's save them and chat about them slowly on my blog! Haha!
+Rest assured, any attempts at deception will prove futile. I'm quite perceptive when it comes to such matters. Whenever faced with uncertainties, I turn to these seasoned professors for counsel. With their guidance and accumulated wisdom, I'm well-equipped to see through common scams and tricks. There are countless untold stories and unshared anecdotes that await exploration. 
+
+I look forward to delving into them with you through my blog. Let the conversations begin! 
 
 
 
