@@ -2,6 +2,6 @@
 title: "Advanced Probability Theory"
 permalink: /statistic/AdvancedProbabilityTheory
 date: 2025-05-06
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
-
-[Advanced Probability Theory](''chenbuhuan.github.io/files/Advanced Probability Theory NENU(荆炳义).pdf'')这是荆炳义大神的概率伦讲义，课程可参考B站。
+这是荆炳义老师的概率论讲义。
