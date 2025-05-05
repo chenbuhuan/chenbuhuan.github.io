@@ -214,7 +214,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  tool:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -248,10 +248,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _tool
   - scope:
       path: ""
-      type: teaching
+      type: tool
     values:
       layout: single
       author_profile: true
@@ -275,14 +275,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 
 # Sass/SCSS
