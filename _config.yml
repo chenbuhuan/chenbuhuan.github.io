@@ -214,13 +214,15 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  tool:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-
+  project:
+    output: true
+    permalink: /:collection/:path/
+  statistic:
+    output: true
+    permalink: /:collection/:path/
 
 
 
@@ -244,10 +246,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _tool
+  # _project
   - scope:
       path: ""
-      type: tool
+      type: project
     values:
       layout: single
       author_profile: true
@@ -262,7 +264,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _statistic
+  - scope:
+      path: ""
+      type: statistic
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
