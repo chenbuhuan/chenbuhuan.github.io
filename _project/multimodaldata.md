@@ -3,18 +3,6 @@ title: "心理健康多模态数据集总结"
 permalink: /project/multimodaldata
 ---
 
-本网页提供可获取的心理健康方面的多模态数据集，相关任务类型及对应信息如下表所示：
+本网页提供可获取的心理健康方面的多模态数据集介绍，相关任务类型及对应信息如下表所示：✅☑▢
 
-| 任务类型 | 具体形式 | 涉及的精神障碍 |
-
-| -------- | -------- | -------------- |
-
-| 固定任务 | 标准化朗读任务、读固定文本(如《北风与太阳》)、阅读带有积极/中性/消极情感色彩的词语 | Depression、SAD、PTSD、... |
-
-| 开放表达 | 开放式问答任务（描述最近一天经历、回答情绪相关问题(积极/中性/消极)）、自传式回忆（讲述快乐/悲伤回忆） | - |
-
-| 情绪诱发任务 | 情绪诱发（观看图片或短视频后进行描述，含IAPS情绪图片系统、情绪视频片段(电影片段2-5分钟)、面部表情数据库(FACES/KDEF)）、情绪调节任务、点探测任务（情绪注意偏向）、情绪识别任务、情绪优化任务 | - |
-
-| 行为/模仿任务 | 步态、动作模仿、简单互动任务（舞蹈模仿、步态模仿、手势模仿等，激活情感和社会情境下的运动功能） | - |
-
-| 结构化/半结构化访谈 | 围绕睡眠、情绪、兴趣、社交、压力等问题展开 | - |
+<table style="width:100%; border-collapse:collapse; border:1px solid #ddd; line-height:1.6;">   <tr>     <th style="border:1px solid #ddd; padding:8px; background:#f5f5f5;">任务类型</th>     <th style="border:1px solid #ddd; padding:8px; background:#f5f5f5;">具体形式</th>     <th style="border:1px solid #ddd; padding:8px; background:#f5f5f5;">涉及的精神障碍</th>   </tr>    <tr>     <td style="border:1px solid #ddd; padding:8px;">固定任务</td>     <td style="border:1px solid #ddd; padding:8px;">标准化朗读任务<br>读固定文本(如《北风与太阳》)<br>阅读带有积极/中性/消极情感色彩的词语</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>    <tr>     <td style="border:1px solid #ddd; padding:8px;" rowspan="2">开放表达</td>     <td style="border:1px solid #ddd; padding:8px;">开放式问答任务<br>描述最近一天经历、回答情绪相关问题(积极/中性/消极)</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>   <tr>     <td style="border:1px solid #ddd; padding:8px;">自传式回忆<br>讲述快乐/悲伤回忆</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>    <tr>     <td style="border:1px solid #ddd; padding:8px;" rowspan="3">情绪诱发任务</td>     <td style="border:1px solid #ddd; padding:8px;">情绪诱发<br>观看图片或短视频后进行描述<br>（IAPS、情绪视频、FACES/KDEF）</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>   <tr>     <td style="border:1px solid #ddd; padding:8px;">情绪调节任务、点探测任务、情绪识别任务</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>   <tr>     <td style="border:1px solid #ddd; padding:8px;">情绪优化任务</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>    <tr>     <td style="border:1px solid #ddd; padding:8px;">行为/模仿任务</td>     <td style="border:1px solid #ddd; padding:8px;">步态、动作模仿、简单互动任务<br>舞蹈模仿、步态模仿、手势模仿等</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr>    <tr>     <td style="border:1px solid #ddd; padding:8px;">结构化/半结构化访谈</td>     <td style="border:1px solid #ddd; padding:8px;">围绕睡眠、情绪、兴趣、社交、压力等问题展开</td>     <td style="border:1px solid #ddd; padding:8px;">       <a href="/files/page/mulitmodal/depression.md">Depression</a><br>       <a href="/files/page/mulitmodal/sad.md">SAD</a><br>       <a href="/files/page/mulitmodal/ptsd.md">PTSD</a>     </td>   </tr> </table>
