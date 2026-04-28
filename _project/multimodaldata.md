@@ -1,5 +1,5 @@
 ---
-title: "心理健康多模态数据集总结"
+title: "心理健康多模态数据集"
 permalink: /project/multimodaldata
 ---
 

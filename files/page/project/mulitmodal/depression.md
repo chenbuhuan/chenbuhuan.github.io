@@ -1,6 +1,6 @@
 ---
-title: "心理健康多模态数据集总结"
-permalink: /project/multimodaldata
+title: "心理健康多模态数据集"
+permalink: /files/page/project/mulitmodal/depression
 ---
 
 本网页提供可获取的心理健康方面的多模态数据集，相关任务类型及对应信息如下表所示：✅☑▢
