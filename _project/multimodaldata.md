@@ -52,10 +52,10 @@ permalink: /project/multimodaldata
       <td rowspan="3" style="border:1px solid #ddd; padding:8px;">开放式问答任务<br>描述最近一天经历、回答情绪相关问题(积极/中性/消极)</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-Text.md">Text</a><br>
-       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-Acoustic.md">Acoustic</a><br>
-       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-Visual.md">Visual</a><br>
-       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-EEG.md">EEG</a> 
+       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-Text">Text</a><br>
+       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-Acoustic">Acoustic</a><br>
+       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-Visual">Visual</a><br>
+       <a href="/files/page/project/multimodal/开放表达-开放式问答-Depression-公开-EEG">EEG</a> 
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Text<br>Acoustic<br>Visual<br>EEG</td>
@@ -79,9 +79,9 @@ permalink: /project/multimodaldata
       <td rowspan="3" style="border:1px solid #ddd; padding:8px;">自传式回忆<br>讲述快乐/悲伤回忆</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-       <a href="/files/page/project/multimodal/开放表达-自传式回忆-Depression-公开-Text.md">Text</a><br>
-       <a href="/files/page/project/multimodal/开放表达-自传式回忆-Depression-公开-Acoustic.md">Acoustic</a><br>
-       <a href="/files/page/project/multimodal/开放表达-自传式回忆-Depression-公开-Visual.md">Visual</a><br>
+       <a href="/files/page/project/multimodal/开放表达-自传式回忆-Depression-公开-Text">Text</a><br>
+       <a href="/files/page/project/multimodal/开放表达-自传式回忆-Depression-公开-Acoustic">Acoustic</a><br>
+       <a href="/files/page/project/multimodal/开放表达-自传式回忆-Depression-公开-Visual">Visual</a><br>
        EEG
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
@@ -106,10 +106,10 @@ permalink: /project/multimodaldata
       <td rowspan="3" style="border:1px solid #ddd; padding:8px;">情绪诱发<br>观看图片或短视频后进行描述<br>（IAPS情绪图片系统、情绪视频片段(电影片段2-5分钟)、面部表情数据库(FACES/KDEF)）</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-       <a href="/files/page/project/multimodal/情绪诱发-情绪诱发-Depression-公开-Text.md">Text</a><br>
-       <a href="/files/page/project/multimodal/情绪诱发-情绪诱发-Depression-公开-Acoustic.md">Acoustic</a><br>
+       <a href="/files/page/project/multimodal/情绪诱发-情绪诱发-Depression-公开-Text">Text</a><br>
+       <a href="/files/page/project/multimodal/情绪诱发-情绪诱发-Depression-公开-Acoustic">Acoustic</a><br>
        Visual<br>
-       <a href="/files/page/project/multimodal/情绪诱发-情绪诱发-Depression-公开-EEG.md">EEG</a> 
+       <a href="/files/page/project/multimodal/情绪诱发-情绪诱发-Depression-公开-EEG">EEG</a> 
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Text<br>Acoustic<br>Visual<br>EEG</td>
