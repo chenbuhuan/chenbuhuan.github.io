@@ -81,7 +81,7 @@ permalink: /project/multimodaldata
         ✅<a href="/files/page/multimodal/text.md">Text</a><br>
         ✅<a href="/files/page/multimodal/acoustic.md">Acoustic</a><br>
        ✅ <a href="/files/page/multimodal/visual.md">Visual</a><br>
-       <a href="/files/page/multimodal/eeg.md">EEG</a> 
+       EEG
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Text<br>Acoustic<br>Visual<br>EEG</td>
@@ -107,7 +107,7 @@ permalink: /project/multimodaldata
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
        ✅ <a href="/files/page/multimodal/text.md">Text</a><br>
        ✅ <a href="/files/page/multimodal/acoustic.md">Acoustic</a><br>
-       <a href="/files/page/multimodal/visual.md">Visual</a><br>
+       Visual<br>
        ✅ <a href="/files/page/multimodal/eeg.md">EEG</a> 
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
