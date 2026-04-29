@@ -7,7 +7,7 @@ permalink: /files/page/project/dataset/MODMA
 
 （2）模态：音频，EEG，文本（可以通过音频转录）
 
-（3）数据集网址：https://reshare.ukdataservice.ac.uk/854301/
+（3）数据集网址：https://modma.lzu.edu.cn/data/index/
 
 （4）使用的量表：PHQ-9
 
@@ -15,6 +15,6 @@ permalink: /files/page/project/dataset/MODMA
 
 （6）平均年龄：30.79
 
-（4）参考文献：
+（7）参考文献：
 
 [1] Cai H, Yuan Z, Gao Y, et al. A multi-modal open dataset for mental-disorder analysis[J]. Scientific Data, 2022, 9(1): 178.
