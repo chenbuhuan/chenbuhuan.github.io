@@ -81,7 +81,7 @@ permalink: /project/multimodaldata
         <a href="/files/page/mulitmodal/text.md">Text✅</a><br>
         <a href="/files/page/mulitmodal/acoustic.md">Acoustic✅</a><br>
         <a href="/files/page/mulitmodal/visual.md">Visual✅</a><br>
-        EEG▢
+        <a href="/files/page/mulitmodal/eeg.md">EEG
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
@@ -92,13 +92,12 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/sad.md">SAD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      SAD▢</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      Text▢<br>
-      Acoustic▢<br>
-      Visual▢<br>
-      EEG▢
+        <a href="/files/page/mulitmodal/text.md">Text</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
+        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">SAD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
@@ -109,13 +108,12 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/ptsd.md">PTSD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      PTSD▢</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        Text▢<br>
-        Acoustic▢<br>
-        Visual▢<br>
-        EEG▢
+        <a href="/files/page/mulitmodal/text.md">Text</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
+        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">PTSD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
@@ -146,8 +144,14 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/sad.md">SAD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      SAD▢</td>
+        <a href="/files/page/mulitmodal/text.md">Text</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
+        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">SAD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         Text▢<br>
         Acoustic▢<br>
@@ -156,13 +160,12 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/ptsd.md">PTSD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      PTSD▢</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        Text▢<br>
-        Acoustic▢<br>
-        Visual▢<br>
-        EEG▢
+        <a href="/files/page/mulitmodal/text.md">Text</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
+        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">PTSD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
@@ -193,8 +196,14 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
-     <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      SAD▢</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/sad.md">SAD</a></td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        <a href="/files/page/mulitmodal/text.md">Text</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
+        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
+      </td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">SAD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         Text▢<br>
         Acoustic▢<br>
@@ -203,20 +212,12 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/ptsd.md">PTSD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-      PTSD▢</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        Text▢<br>
-        Acoustic▢<br>
-        Visual▢<br>
-        EEG▢
-      </td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">PTSD▢</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        Text▢<br>
-        Acoustic▢<br>
-        Visual▢<br>
-        EEG▢
+        <a href="/files/page/mulitmodal/text.md">Text</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
+        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">PTSD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
