@@ -3,7 +3,7 @@ title: "心理健康多模态数据集"
 permalink: /project/multimodaldata
 ---
 
-本网页提供可获取的心理健康方面的多模态数据集介绍。
+本研究提供可获取的心理健康方面的多模态数据集介绍。
 
 <table style="width:100%; border-collapse:collapse; border:1px solid #ddd; line-height:1.8;">
   <thead>
@@ -38,7 +38,7 @@ permalink: /project/multimodaldata
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        SAD</td>
+        SAD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         Text▢<br>
         Acoustic▢<br>
@@ -55,7 +55,7 @@ permalink: /project/multimodaldata
     </tr>
     <tr>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        PTSD</td>
+        PTSD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         Text▢<br>
         Acoustic▢<br>
