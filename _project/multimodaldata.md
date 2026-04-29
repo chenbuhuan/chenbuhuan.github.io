@@ -199,10 +199,10 @@ permalink: /project/multimodaldata
       <td rowspan="3" style="border:1px solid #ddd; padding:8px;">围绕睡眠、情绪、兴趣、社交、压力等问题展开</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Text.md">Text</a><br>
-        <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Acoustic.md">Acoustic</a><br>
-        <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Visual.md">Visual</a><br>
-       <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-EEG.md">EEG</a> 
+        <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Text">Text</a><br>
+        <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Acoustic">Acoustic</a><br>
+        <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Visual">Visual</a><br>
+       <a href="/files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-EEG">EEG</a> 
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Text<br>Acoustic<br>Visual<br>EEG</td>
