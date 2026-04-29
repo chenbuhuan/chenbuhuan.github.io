@@ -3,7 +3,7 @@ title: "心理健康多模态数据集"
 permalink: /project/multimodaldata
 ---
 
-本网页提供可获取的心理健康方面的多模态数据集介绍。✅☑▢
+本网页提供可获取的心理健康方面的多模态数据集介绍。
 
 <table style="width:100%; border-collapse:collapse; border:1px solid #ddd; line-height:1.8;">
   <thead>
@@ -23,10 +23,10 @@ permalink: /project/multimodaldata
       <td rowspan="3" style="border:1px solid #ddd; padding:8px;">标准化朗读任务<br>读固定文本(如《北风与太阳》)<br>阅读带有积极/中性/消极情感色彩的词语</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/project/mulitmodal/depression">Depression✅</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="/files/page/mulitmodal/text.md">Text</a><br>
-        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
-        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
-        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
+        <a href="/files/page/mulitmodal/text.md">Text✅</a><br>
+        <a href="/files/page/mulitmodal/acoustic.md">Acoustic✅</a><br>
+        Visual▢<br>
+        <a href="/files/page/mulitmodal/eeg.md">EEG✅</a>
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression ▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
@@ -37,12 +37,13 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/sad.md">SAD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="/files/page/mulitmodal/text.md">Text</a><br>
-        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
-        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
-        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
+        SAD</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        Text▢<br>
+        Acoustic▢<br>
+        Visual▢<br>
+        EEG▢
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">SAD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
@@ -53,12 +54,13 @@ permalink: /project/multimodaldata
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/ptsd.md">PTSD</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-        <a href="/files/page/mulitmodal/text.md">Text</a><br>
-        <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
-        <a href="/files/page/mulitmodal/visual.md">Visual</a><br>
-        <a href="/files/page/mulitmodal/eeg.md">EEG</a>
+        PTSD</td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+        Text▢<br>
+        Acoustic▢<br>
+        Visual▢<br>
+        EEG▢
       </td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">PTSD▢</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
