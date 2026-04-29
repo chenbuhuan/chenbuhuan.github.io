@@ -1,6 +1,6 @@
 ---
 title: 结构化访谈-情绪访谈-Depression-公开-EEG
-permalink: /files/page/project/mulitmodal/结构化访谈-情绪访谈-Depression-公开-EEG.md
+permalink: /files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-EEG.md
 ---
 
 # 结构化访谈-情绪访谈-Depression-公开-EEG

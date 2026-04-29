@@ -1,6 +1,6 @@
 ---
 title: 结构化访谈-情绪访谈-Depression-公开-Acoustic
-permalink: /files/page/project/mulitmodal/结构化访谈-情绪访谈-Depression-公开-Acoustic.md
+permalink: /files/page/project/multimodal/结构化访谈-情绪访谈-Depression-公开-Acoustic.md
 ---
 
 # 结构化访谈-情绪访谈-Depression-公开-Acoustic
