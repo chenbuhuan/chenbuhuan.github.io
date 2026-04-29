@@ -19,15 +19,15 @@ permalink: /project/multimodaldata
   <tbody>
     <!-- 固定任务 -->
     <tr>
-      <td rowspan="3" style="border:1px solid #ddd; padding:8px; text-align:center;">固定任务</td>
-      <td rowspan="3" style="border:1px solid #ddd; padding:8px;">标准化朗读任务<br>读固定文本(如《北风与太阳》)<br>阅读带有积极/中性/消极情感色彩的词语</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;">
-       ✅ <a href="/files/page/multimodal/text.md">Text</a><br>
-       ✅ <a href="/files/page/multimodal/acoustic.md">Acoustic</a><br>
-        Visual<br>
-       ✅ <a href="/files/page/multimodal/eeg.md">EEG</a> 
-      </td>
+<td rowspan="3" style="border:1px solid #ddd; padding:8px; text-align:center;">固定任务</td>
+<td rowspan="3" style="border:1px solid #ddd; padding:8px;">标准化朗读任务<br>读固定文本(如《北风与太阳》)<br>阅读带有积极/中性/消极情感色彩的词语</td>
+<td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
+<td style="border:1px solid #ddd; padding:8px; text-align:center;">
+  ✅ <a href="/files/page/project/multimodal/固定任务-标准化朗读-Depression-公开-Text.md">Text</a><br>
+  ✅ <a href="/files/page/project/multimodal/固定任务-标准化朗读-Depression-公开-Acoustic.md">Acoustic</a><br>
+  Visual<br>
+  ✅ <a href="/files/page/project/multimodal/固定任务-标准化朗读-Depression-公开-EEG.md">EEG</a>
+</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Depression</td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">Text<br>Acoustic<br>Visual<br>EEG</td>
     </tr>
