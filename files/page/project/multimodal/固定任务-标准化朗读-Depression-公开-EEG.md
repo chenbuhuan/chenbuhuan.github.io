@@ -1,6 +1,6 @@
 ---
 title: 固定任务-标准化朗读-Depression-公开-EEG
-permalink: /files/page/project/mulitmodal/固定任务-标准化朗读-Depression-公开-EEG.md
+permalink: /files/page/project/multimodal/固定任务-标准化朗读-Depression-公开-EEG.md
 ---
 
 # 固定任务-标准化朗读-Depression-公开-EEG
