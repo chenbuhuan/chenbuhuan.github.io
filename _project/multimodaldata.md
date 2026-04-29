@@ -21,7 +21,7 @@ permalink: /project/multimodaldata
     <tr>
       <td rowspan="3" style="border:1px solid #ddd; padding:8px; text-align:center;">固定任务</td>
       <td rowspan="3" style="border:1px solid #ddd; padding:8px;">标准化朗读任务<br>读固定文本(如《北风与太阳》)<br>阅读带有积极/中性/消极情感色彩的词语</td>
-      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/depression.md">Depression</a></td>
+      <td style="border:1px solid #ddd; padding:8px; text-align:center;"><a href="/files/page/mulitmodal/depression">Depression</a></td>
       <td style="border:1px solid #ddd; padding:8px; text-align:center;">
         <a href="/files/page/mulitmodal/text.md">Text</a><br>
         <a href="/files/page/mulitmodal/acoustic.md">Acoustic</a><br>
@@ -432,5 +432,5 @@ permalink: /project/multimodaldata
         EEG
       </td>
     </tr>
-  </tbody>
-</table>
+    </tbody>
+    </table>
