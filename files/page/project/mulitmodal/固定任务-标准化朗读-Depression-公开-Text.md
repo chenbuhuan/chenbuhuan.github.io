@@ -1,6 +1,6 @@
 ---
 title: 固定任务-标准化朗读-Depression-公开-Text
-permalink: /files/page/project/mulitmodal/固定任务-标准化朗读-Depression-公开-Text.md
+permalink: /files/page/project/mulitmodal/固定任务-标准化朗读-Depression-公开-Text
 ---
 
 # 固定任务-标准化朗读-Depression-公开-Text
